@@ -1,0 +1,3 @@
+pdf,rfi_no,method,text_len,ocr_used,ocr_pages,attempts,forced_second_attempt,elapsed_ms,status,error
+C:\Users\leben\Downloads\RFI 913 - Part F Grid E3 Pipe\220647-Suitland_High_School_Replacement-913-Storm_Pipe_amp_Foundation_Wall-Area_F_Gridline_E3-2024-01-18.pdf,220647-Suitland_High_School_Replacement-913-Storm_Pipe_amp_Foundation_Wall-Area_F_Gridline_E3-2024-01-18,pdfplumber,2897,False,0,1,False,613.9,ok,
+C:\Users\leben\Downloads\RFI 913 - Part F Grid E3 Pipe\RFI 913_Storm Pipe & Foundation Wall - Area F Gridline E3- LE Response.pdf,913_Storm,pdfplumber,13072,False,0,1,False,27164.5,ok,
