@@ -1,6 +1,0 @@
-pandas
-openpyxl
-pdfplumber
-tqdm
-python-dotenv
-office365-rest-python-client
